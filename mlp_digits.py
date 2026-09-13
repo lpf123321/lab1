@@ -1,4 +1,4 @@
-"""作业一：真实运行、固定划分、全批量 PyTorch MLP。AI 辅助编写。
+"""作业一：真实运行、固定划分、全批量 PyTorch MLP。TRAE 辅助编写。
 运行：conda run -n ml_lab python mlp_digits.py
 """
 from pathlib import Path
