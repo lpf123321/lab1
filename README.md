@@ -1,6 +1,6 @@
-# 神经网络实验作业一
+# 实验作业一
 
-使用 PyTorch 手写 MLP，在 scikit-learn 内置 `load_digits` 数据集上完成报告样板要求的实验。
+使用 PyTorch 手写 MLP，在 scikit-learn 内置 `load_digits` 数据集上完成报告要求的实验。
 
 ## 运行
 
